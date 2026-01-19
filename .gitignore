@@ -48,3 +48,12 @@ Merged_All_Sheets_post6_skill_salary_merged_skills_non_empty 2.xlsx
 full-output/
 public/output/
 tmp/
+output_v2/
+output_gephi/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
